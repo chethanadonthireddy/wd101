@@ -1,5 +1,5 @@
 body {
-    background-color: aliceblue;
+    background-color: blue;
 }
 
 h1 {
@@ -14,8 +14,8 @@ h1 {
 
 .parts {
     margin: auto;
-    margin-top: 10px;
-    border: 1px solid;
+    margin-top: 11px;
+    border: 2px solid;
     padding: 5px;
     background-color: rgb(145, 180, 210);
 }
@@ -23,7 +23,7 @@ h1 {
 .block {
     display: block;
     margin: auto;
-    margin-top: 3px;
+    margin-top: 4px;
 }
 
 .table {
@@ -38,7 +38,7 @@ h1 {
 
 .float {
     margin: auto;
-    margin-top: 3px;
+    margin-top: 4px;
 }
 
 .form {
